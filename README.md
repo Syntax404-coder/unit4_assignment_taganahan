@@ -1,4 +1,4 @@
 # About Me
 
-"# Assignment for Unit 4 in Applications Development" 
+"Assignment for Unit 4 in Applications Development" 
 
